@@ -1,2 +1,1 @@
-# DjsV13
-Discord.Js Version 13 Template Bot
+DiscordJS V13 Discord Template Bot!
